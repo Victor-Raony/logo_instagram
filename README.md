@@ -1,6 +1,6 @@
-<h1 align="center">Logo Instagran</h1>
+<h1 align="center">Logo Instagram</h1>
 
-<p align="center">🚀 Boas praticas de HTML e CSS, nesse projeto recriamos a logo do instagran utilizando somente HTML e CSS. </p>
+<p align="center">🚀 Boas praticas de HTML e CSS, nesse projeto recriamos a logo do instagram utilizando somente HTML e CSS. </p>
 
 ### Features
 
