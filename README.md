@@ -6,3 +6,6 @@
 
 - [x] Boas praticas com radial-gradient;
 - [x] Utilização pseudo-elemento (before e after)
+
+
+<img src="/images/image 1.svg"/>
